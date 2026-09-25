@@ -1,2 +1,3 @@
-# ra2581392613016
-Repositório do aluno LORENZO DE OLIVEIRA MILANELO NOGUEIRA.
+# Portfólio Lorenzo — experiência single-page
+
+Portfólio pessoal em uma única viewport, sem rolagem e sem framework.
