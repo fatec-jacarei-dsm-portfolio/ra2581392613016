@@ -38,6 +38,12 @@ Plataforma de monitoramento de serviços e visualização de indicadores de cons
 
 > Os textos de contribuição, links dos repositórios e imagens dos projetos podem ser complementados/ajustados de acordo com a versão final apresentada pela equipe.
 
+## Pitch de apresentação
+
+Vídeo de apresentação pessoal e profissional, destacando minha trajetória acadêmica, habilidades e principais contribuições nas ABPs desenvolvidas durante o curso.
+
+**[▶ Assistir ao pitch — YouTube](https://youtu.be/q2DTzT8pifs)**
+
 ## Tecnologias utilizadas neste portfólio
 
 - HTML5
